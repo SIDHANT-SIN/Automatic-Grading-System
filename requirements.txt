@@ -1,0 +1,11 @@
+transformers
+streamlit
+opencv-python
+numpy
+Pillow
+fuzzywuzzy
+requests
+word2number
+transformers
+torch
+pandas
